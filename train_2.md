@@ -1,8 +1,6 @@
 # ОП.04 МЕТРОЛОГИЯ, СТАНДАРТИЗАЦИЯ, СЕРТИФИКАЦИЯ И ТЕХНИЧЕСКОЕ ДОКУМЕНТОВЕДЕНИЕ
 
-## [Модули](https://github.com/polinalisafox/metro2033/blob/main/README.md) 
-
-### Учебный модуль 2
+## [Учебный модуль 2](https://github.com/polinalisafox/metro2033/blob/main/README.md) 
 
 #### Стандартизация 
 
