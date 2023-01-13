@@ -1,8 +1,6 @@
 # ОП.04 МЕТРОЛОГИЯ, СТАНДАРТИЗАЦИЯ, СЕРТИФИКАЦИЯ И ТЕХНИЧЕСКОЕ ДОКУМЕНТОВЕДЕНИЕ
 
-## Модули
-
-### [Учебный модуль 1](https://github.com/polinalisafox/metro2033/blob/main/train_1.md) 
+## [Учебный модуль 1](https://github.com/polinalisafox/metro2033/blob/main/train_1.md) 
 
 ### Содержание
 1. Основные понятия и определения в области метрологии; 
@@ -20,7 +18,7 @@
 
 
 
-### [Учебный модуль 2](https://github.com/polinalisafox/metro2033/blob/main/train_2.md) 
+## [Учебный модуль 2](https://github.com/polinalisafox/metro2033/blob/main/train_2.md) 
 
 ### Содержание
 1. Основные понятия и определения. 
@@ -46,7 +44,7 @@
 ### Контрольная работа 
 
 
-### [Учебный модуль 3](https://github.com/polinalisafox/metro2033/blob/main/train_3.md) 
+## [Учебный модуль 3](https://github.com/polinalisafox/metro2033/blob/main/train_3.md) 
 
 ### Содержание
 1. Основные понятия и определения
@@ -72,7 +70,7 @@
 ### Самостоятельная работа
 1.Составление показателей качества определенного вида продукции и этапы его сертификации
 
-### [Учебный модуль 4](https://github.com/polinalisafox/metro2033/blob/main/train_4.md) 
+## [Учебный модуль 4](https://github.com/polinalisafox/metro2033/blob/main/train_4.md) 
 
 ### Содержание
 1. Основные понятия и определения.
