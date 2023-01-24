@@ -92,7 +92,7 @@
 
 ### Схема данных
 
-<image src = "schema.png">
+<image src = "schemaDB.png">
  
 ||Computer|||
 |---|---|---|---|
