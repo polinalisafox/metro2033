@@ -18,7 +18,7 @@
 
 
 
-## [Учебный модуль 2](https://github.com/polinalisafox/metro2033/blob/main/train_2.md) 
+## [Учебный модуль 2](https://github.com/polinalisafox/metro2033/blob/main/README.md)
 
 ### Содержание
 #### [1. Основные понятия и определения.](https://github.com/YmkaBoom/model/blob/main/train_2_1.md#1-основные-понятия-и-определения)
